@@ -40,7 +40,7 @@ public class ApachePOIExcelWrite {
             row.createCell(0).setCellValue(patient.getName());
             row.createCell(1).setCellValue(patient.getSurname());
             row.createCell(2).setCellValue(patient.getPesel().toString());
-            row.createCell(3).setCellValue(patient.getPrice());
+            row.createCell(3).setCellValue(patient.getWallet());
         }
     }
 }

@@ -7,10 +7,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="registration" />
+        <module name="Patient3" />
+        <module name="Registration" />
         <module name="Restaurant" />
         <module name="ApachePoi" />
-        <module name="Registration" />
+        <module name="registration" />
       </profile>
     </annotationProcessing>
   </component>

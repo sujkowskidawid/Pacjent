@@ -38,7 +38,7 @@ public class PatientService {
         Double checkPrice = 0.0;
         for (Patient patient : patientList) {
             if (patient.getName().equals(name) && patient.getSurname().equals(surname)) {
-                checkPrice = patient.getPrice();
+                checkPrice = patient.getWallet();
             }
         }
         return checkPrice;
@@ -48,7 +48,7 @@ public class PatientService {
         Double checkPrice = 0.0;
         for (Patient patient : patientList) {
             if (patient.getPesel().equals(pesel)) {
-                checkPrice = patient.getPrice();
+                checkPrice = patient.getWallet();
             }
         }
         return checkPrice;
@@ -63,4 +63,12 @@ public class PatientService {
         }
         patientList.remove(deletePatient);
     }
-}
+
+    public Double substractMoney(int cost){
+        Double substractMoney = 0.0;
+        for(Patient patient : patientList){
+            substractMoney =patient.getWallet() - cost;
+
+        }return substractMoney;
+
+}}

@@ -2,28 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5077e22-3e5a-4bc7-97de-3d37d76d9ea4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Patient3.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ApachePOIExcelRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApachePOIExcelRead.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ApachePOIExcelWrite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ApachePOIExcelWrite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MainApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Patient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/PatientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PatientService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/Excel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/Excel.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ApachePOIExcelRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApachePOIExcelRead.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ApachePOIExcelWrite.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ApachePOIExcelWrite.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Excel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Excel.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/registration.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainApp.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Patient.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/PatientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/PatientService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/BankAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/InsufficientFundsException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/InsufficientFundsException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/MainExceptions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/MainExceptions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/wyjatki/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/wyjatki/Person.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kurs-projekty/dave-6 dzien" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -65,16 +59,28 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="MainApp" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="13" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="MainApp" />
-      <module name="registration" />
+  <component name="RunManager" selected="Application.MainApp">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Patient3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainApp" type="Application" factoryName="Application" singleton="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="13" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="Patient3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -99,11 +105,11 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="617" y="98" key="#MainApp" timestamp="1585814525611">
+    <state x="617" y="98" key="#MainApp" timestamp="1585821555684">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="617" y="98" key="#MainApp/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585813781424" />
-    <state x="617" y="98" key="#MainApp/0.0.1920.1040@0.0.1920.1040" timestamp="1585814525611" />
+    <state x="617" y="98" key="#MainApp/0.0.1920.1040@0.0.1920.1040" timestamp="1585821555684" />
     <state x="1032" y="178" key="#Project_Structure" timestamp="1585727779979">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -134,26 +140,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="331" y="108" width="814" height="820" key="#xdebugger.evaluate/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585227374163" />
-    <state width="1876" height="55" key="GridCell.Tab.0.bottom" timestamp="1585821011697">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585825676371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585825676371" />
+    <state width="1860" height="239" key="GridCell.Tab.0.bottom" timestamp="1585829032934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585813814226" />
-    <state width="1876" height="55" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585821011697" />
-    <state width="1876" height="55" key="GridCell.Tab.0.center" timestamp="1585821011697">
+    <state width="1860" height="239" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585829032934" />
+    <state width="1860" height="239" key="GridCell.Tab.0.center" timestamp="1585829032934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="236" key="GridCell.Tab.0.center/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585813814225" />
-    <state width="1876" height="55" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585821011697" />
-    <state width="1876" height="55" key="GridCell.Tab.0.left" timestamp="1585821011697">
+    <state width="1860" height="239" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585829032934" />
+    <state width="1860" height="239" key="GridCell.Tab.0.left" timestamp="1585829032934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="236" key="GridCell.Tab.0.left/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585813814225" />
-    <state width="1876" height="55" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585821011697" />
-    <state width="1876" height="55" key="GridCell.Tab.0.right" timestamp="1585821011697">
+    <state width="1860" height="239" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585829032934" />
+    <state width="1860" height="239" key="GridCell.Tab.0.right" timestamp="1585829032934">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="236" key="GridCell.Tab.0.right/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585813814225" />
-    <state width="1876" height="55" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585821011697" />
+    <state width="1860" height="239" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585829032934" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1585229302579">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -170,10 +180,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585229302579" />
-    <state x="553" y="79" key="SettingsEditor" timestamp="1585812173866">
+    <state x="553" y="79" key="SettingsEditor" timestamp="1585827091336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="553" y="79" key="SettingsEditor/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585812173866" />
+    <state x="553" y="79" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585827091336" />
     <state x="690" y="275" key="extract.method.dialog" timestamp="1585216944899">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -182,9 +193,20 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="215" key="new project wizard/0.0.1920.1040/1920.153.1280.728@0.0.1920.1040" timestamp="1585737782522" />
-    <state x="702" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1585819394790">
+    <state x="702" y="147" key="refactoring.ChangeSignatureDialog" timestamp="1585828565061">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="702" y="147" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585819394790" />
+    <state x="702" y="147" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585828565061" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/MainApp.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
